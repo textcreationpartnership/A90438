@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pacificus, or The Peace-maker. Motives for peace and reconciliation : directed to the Lord Mayor, aldermen, and Common councel.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90438</idno><idno type="EEBO-CITATION">99864215</idno>
+  <idno type="VID">161728</idno>
+  <idno type="EEBO-PROQUEST">2240905334</idno>
+  
+            <idno type="STC">Wing P143</idno>
+            <idno type="STC">Thomason E443_42</idno>
+            <idno type="STC">ESTC R204752</idno>
+            <idno type="PROQUEST">99864215</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864215e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90438)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161728)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E443[42])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pacificus, or The Peace-maker. Motives for peace and reconciliation : directed to the Lord Mayor, aldermen, and Common councel.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed May 24. MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161728:1"/>
+            <p>
+               <hi>PACIFICƲS,</hi> OR The Peace-maker.</p>
+            <p>MOTIVES FOR PEACE <hi>AND</hi> RECONCILIATION: Directed to the Lord Mayor, Aldermen, and Common Councel.</p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed <hi>May</hi> 24. MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="oration">
+            <pb facs="tcp:161728:2"/>
+            <pb n="3" facs="tcp:161728:2"/>
+            <head>To the Right Honourable the Lord Mayor, and the Right Worshipful the Alder<g ref="char:EOLhyphen"/>men, and the Common Councell of the City of LONDON in Common Councel assembled, these present.</head>
+            <opener>
+               <salute>My Lord and Gentlemen,</salute>
+            </opener>
+            <p>THe great respect I bear to your selves and City (the strength and glory of this Iland) and the sad sense of those desolating calamities so visibly imminent over it and the whole Na<g ref="char:EOLhyphen"/>tion hath moved me to take the boldnesse to represen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> un<g ref="char:EOLhyphen"/>to you the sense of the wiser sort of men in the Country, and what their expectation is from you in their present perplexity, and how deeply you will share in the hatred and Countries curse, if their ex<g ref="char:EOLhyphen"/>pectation be frustrate by you. The glory, happinesse, and stability of this Kingdome as a Body Politick is (under God) without con<g ref="char:EOLhyphen"/>troversie in a constant Monarch and seasonable Parliaments. The latter to invent and find out good laws; the other to confirm and execute them by his Ministers. How grievous the want of either of these is to the weal of this Nation (while we have been under a King without seasonable Parliaments, or under a Parliament with<g ref="char:EOLhyphen"/>out the concurrence of a King) our late experience hath made so sensible, that to endeavour any demonstration of it, were to hold a candle to the Sun. An end of this misery (unlesse God raise up some powerfull Mediators by mutuall compliance to work some ac<g ref="char:EOLhyphen"/>commodation) is among the things rather to be desired then hoped for. The Parliament is gone so far on the one side, and the Coun<g ref="char:EOLhyphen"/>tries begin to rise so high on the other, and the provacations per<g ref="char:EOLhyphen"/>mitted by God of that quality, that in the eye o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eason, without some extraordionary interposition from earth or heaven, either King or Parliament must fall; and with the one the g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ory, safe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, and quiet of this English Nation; and with the other the freedom of it; and on it must needs follow the exceeding dang<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s of all those that have been the Parliaments supporters in this unnaturall War, wherein how great a share you are supposed to have had, you very
+<pb n="4" facs="tcp:161728:3"/> well know. Now on whom are the eyes of all the men of <hi>England</hi> fixt to expect a vigorous mediation for mutuall compliance, but on you of the City of <hi>London?</hi> God hath made you the great Cham<g ref="char:EOLhyphen"/>ber of this Nation: Treasure to nourish an Army cannot (or very hardly) be had without you; and (if intire) none can command your tr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>asure without your consent. Hereby your weight is able to balance right against either party that would inthrall it; and there is as great expectation from your goodnes, as from your pow<g ref="char:EOLhyphen"/>er. The fame of your forwardnesse in Religion (that teacheth and perswadeth unity and peace); the not obscure evidences of your dislike of those wayes of injustice, pressures, and distance with the King (which occasions our present complaints and fears) nouri<g ref="char:EOLhyphen"/>shes hopes, that what-ever providences shall make you more able to stand up for a good accommodation, they shall not make you lesse willing. Other visible help there is none; Strangers do not so much regard us: Our Brethren of <hi>Scotland</hi> are so divided, and so aff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted, that the one party is feared to incline to keep up the Par<g ref="char:EOLhyphen"/>liament without the King; the other to set up the King, not with, but against the Parliament; which are the two extremes which threaten our ruine. Besides, help from them would neither come on terms so sutable to an exhausted Kingdom, nor so honorable as from an home hand. Our expectation therefore is from you, that you would set your hearts to endeav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur some expedient between King and Parliament, that both may be united, neither laid aside nor ru<g ref="char:EOLhyphen"/>in'd; that neither Priviledge may swallow up Soveraignty, nor So<g ref="char:EOLhyphen"/>veraignty devour Priviledge; nor either of them overthrow the Laws, Liberties and Properties of this long flourishing Kingdom. Wherein the Country are too Royall (as it often happens that one extreme begets another) let your wisdom rectifie them: wherein they are (according to Scripture, and the ingagement of divers Oaths) loyall, let your conjunction strengthen them. If your co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>currence be required to continue the rejection of the King, let your ears be deaf, and your purses sealed; for thats one of the sourses of our miseries: If the like be required to the suppression of the Parlia<g ref="char:EOLhyphen"/>ment, be therein like affected; for if the former be <hi>Scylla,</hi> this is <hi>Cha<g ref="char:EOLhyphen"/>rybdis:</hi> but upon an overture of reconciliation shew your selves, shew your selves as willing to buy Peace as Truth, though at a deer rate; for that's never dear, which is the onely safegard to all that's left. Remember your engagements to both, as wel in regard of your
+<pb n="5" facs="tcp:161728:3"/> dependance on both, as of your solemn Protestations and Cove<g ref="char:EOLhyphen"/>nants to preserve the rights and dignities of the one, with the Privi<g ref="char:EOLhyphen"/>ledges &amp; safety of the other, and accordingly desert neither in what is good. While things have been pendulous, and were onely feared, how heavie have you felt it in your trading? But if the fire once breaks out, your miseries must and will encrease with extremities. If your endeavours might prevent your own, your Cities, and Coun<g ref="char:EOLhyphen"/>tries ruine, and you act not, either benumb'd with base fear, or sloth<g ref="char:EOLhyphen"/>ful for want of needful zeal, what guilt wil be charged on you from God to draw upon you his heavie curse? for hee that hinders not<note place="margin">Qui non vetat pec<g ref="char:EOLhyphen"/>care <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> possit, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et.</note> when he may, promotes calamity. Had <hi>Hester</hi> such masculine reso<g ref="char:EOLhyphen"/>lution to engage for her peoples safety, with this, <hi>If I perish, I perish?</hi> and such bowels to fall down at the feet of her Lord with tears be<g ref="char:EOLhyphen"/>seeching him; resenting it as a burthen her heart could not endure, to see the evill that should come on her people? And shall any be so effeminate as to stick at ways wherein (and that but perhaps) they may meet with frowns? Can any sit still and see desolation coming on his people like an armed man, and not thrust himself into the breach with all his might, lest he should see their destruction, and read his own accessarinesse to it written in his own conscience with black characters? And what an eye wil the Country have upon you, if you appear not for a generall reconcilement in this exigent? &amp; of what consequence may it be? If they being discontented should with-hold provisions, it would be but a little losse to them; but how many of your poor Citizens must suddenly pine away, stric<g ref="char:EOLhyphen"/>ken thorow for want of the fruits of the earth? and what ill blood may that cause against them, whose neglect of the Countries inter<g ref="char:EOLhyphen"/>terest and desires hath alienated the hearts, and secluded the store of the Country from them? In brief, without a wonder there must be a new War, or a reconcilement between King and Parliament, and the burthen'd and incensed Kingdom. If a new War▪ how gri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vous is it like to be, and of how dangerous consequence? The Scots are supposed to come in numerous, and this is a peeled Kingdom: not onely for their sins blasted from heaven in the last harvest; but de<g ref="char:EOLhyphen"/>voured also by souldiers, who usually make no spare, who ever else want. Though no stroke be struck, how must this increase the samine, and by consuming scant provisions make many perish by hunger? But if once bloud be drawn between forces so numerous, so enraged on both sides, what rivers of blood are like to follow?
+<pb n="6" facs="tcp:161728:4"/> And how much of it, (yea all of it) will be charged on them, who might &amp; should have prevented it by any compliance not sinfull? in which war <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f you ingage, you must be sure to maintain it to the ex<g ref="char:EOLhyphen"/>hausting of your treasure, and blood too (as formerly) if need require. And if in it you prevail, what shall you get, but still exalt those over you, who when they need you not, you know how they love you, by their indignities put upon you, threatnings against you, and impeachments preferred against the fairest flowers of your society? But if the War miscarry, what will be the center wherein all the red lines of disdain, envy and revenge will meet, but <hi>London?</hi> Your rich spoil must be designed as sometimes that of <hi>Egypt</hi> was to <hi>Nebuchadnezzar</hi>'s army for their wages in their hard service in the siege of <hi>Tyre.</hi> But above all, (which I hope will lie next your hearts) how is Religion (which is held forth as the greatest grievance, and most plausible pretence of a new War) like to suffer by a new War now? What scandal lies upon it by the present condition of our Soveraign? how do we justifie the do<g ref="char:EOLhyphen"/>ctrine of Papists against heretical Kings, so declaimed against by all Protestant writers, and by none more, or more convincingly, then by the glorious lights of <hi>England?</hi> How will R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ligion by a new War be weakned, to endanger it to become a prey to the common enemy? and what hazard shall Religion run? If you prevail in it, what hath, what is likely to be the issue of it, but the heightning of Sectaries, who many of them are as bitter enemies to ord<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rly re<g ref="char:EOLhyphen"/>formation, and as mischievous to Religion (by disgracing our Mi<g ref="char:EOLhyphen"/>nistery and Ordinances) as any other, because their calumnies are more heeded? But if you miscarry, what can you expect but the ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sing away your most precious Ministers, the return of all for<g ref="char:EOLhyphen"/>mer superstitions and slaveries, and to have no footsteps left of your begun and longed for reformation? All which hazards and evils may be prevented by a seasonable reconciliation. And all this while, what shall become of distressed <hi>Ireland?</hi> can it do otherwise then either bleed, or at least languish to death? Appear therefore, and that seasonably and vigorously, for a reconcil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment between King and Parliament, that before the Scots enter in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> way of hostili<g ref="char:EOLhyphen"/>ty, there may be an application to his Majesti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by both Na<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions, not by way of Imposition, but Treaty, with <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>soluti<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to give or take satisfaction, and that both in what shall be deman<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d from and for the King. And though it be not fit to pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>scrib<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a place, yet sith the
+<pb n="7" facs="tcp:161728:4"/> spirits of many people are so incens'd at that trap wherein he now lies taken and held, it need not be deemed uncivil to move (some things first granted for security, which former offers may assure us his Majestie will not now d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny) for a place of treaty, of mor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ho<g ref="char:EOLhyphen"/>nour, freedom and conveni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncy for returns, then that Castle where<g ref="char:EOLhyphen"/>in now he is, as in a prison. And why should not <hi>London</hi> be deemed as fit a place for Treaty as any other? Certainly in the circum<g ref="char:EOLhyphen"/>stance tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> things are now, it seems to be the safest and fittest place: for the bringing of the King thither, would either abate the height of ind<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gnation conceived by the Countries for his restraint and exile, or prevent that dangerous confluence to him that other places would give more opportunity for. And the City and Parliament being now reunited, such a grant to them as this (so greatly for their honour) would make the union more deeply cordial, and en<g ref="char:EOLhyphen"/>gage the City to improve their power for the Parliaments security in a masculine <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (<hi>confidence or liberty in speech</hi>) for the good of the Kingdom. It may be some may whisper that the King is wilful, he relents not, no good will be done on him, nor can be ex<g ref="char:EOLhyphen"/>pected from him by a Treaty. But let charity silence such evil sur<g ref="char:EOLhyphen"/>mises, And consider his writings, whether they speak not in a mind calmed, a spirit willing to hear, as well as able to speak reason.</p>
+            <p>Sadly ponder what scandalls have been given him by their mis<g ref="char:EOLhyphen"/>carriages who take upon them to bechastisers of him, what little incouragement he hath had to be yielding, when he must yield all or none, and that without debate whatever scruple he hath, and yet without any thing of moment ascertained to him or his: but if these things be debated with him, why may we not hope, that he that is so rationall, when reason is shewed and scruples removed, may be convinced and won to what is rationall, especially when he shall be informed what honour, authority and security shall remain to him and his posterity? Be not therefore discouraged, but pursue this work of generall reconcilement, wherein you will have the hearts, the heads, the hands, the tongues of good and wise men with you. And (which is most encouraging) his assistance who hath pro<g ref="char:EOLhyphen"/>mised joy to the Counc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llours, <hi>Prov.</hi> 12. 10. and blessednesse to the makers of Peace. <hi>Mat.</hi> 5. 9.</p>
+            <closer>
+               <signed>Signed on the behalf of the whole Ki<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gdome. PACIFICUS.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="8" facs="tcp:161728:5"/>
+            <head>Postscript.</head>
+            <p>REader, the copy of this Letter coming into my hands, and con<g ref="char:EOLhyphen"/>sidering with my self, that the intention of the pious Author might be prevented by the unfaithfulnesse or other defect of them through whose hands it was transmitted to be presented to the Lord Maior and Common Councell; I held it requisite for the welfair of this City and Kingdom, to endeavour the printing of it. I shall further crave leave of the Author to enlarge one consideration by him alrea<g ref="char:EOLhyphen"/>dy briefly hinted; for where he saith that without some extraordinary interposition either King or Parliament must fall, the danger of lea<g ref="char:EOLhyphen"/>ving the determination of this controversy to the sword is plainly implyed: We have seen by experience that the present Army, having subdued those against whom they were sent forth, aspired so high as to dictate to the Parliament from whom they at first received their Commission, and refused to disband. And if now for the sins of this land God shall permit the madnesse of the people to give oppor<g ref="char:EOLhyphen"/>tunity to the rage of provoked and implacable men to become pre<g ref="char:EOLhyphen"/>dominant, though much may be by them pretended for the King in what they shall attempt; neverthelesse as <hi>Solomon</hi> saith, (<hi>Prov.</hi> 14. 28.) In the multitude of people is the Kings honour, and in the want of people is the destruction of the Prince, who knoweth what havock will be made when such men shall come in by the power of the sword, which distinguisheth not between friend or foe; the insatiable Soul<g ref="char:EOLhyphen"/>dier takes all for enemies that hath any thing to lose, the Conque<g ref="char:EOLhyphen"/>ror claimes the estate of all whom he vanquesheth as his own; how many rich men have been plundred by the Souldiers of the one party as enemies to the King, and of the other party as disaffected to the Parliament? where then will be the honour of the King, or safety of the people? Nor can any one promise himself safety from what he may expect from the known wisedom and clemency of our Royall Soveraigne, for in such an universall confusion no regard can be ex<g ref="char:EOLhyphen"/>pected either of the Kings honour or Royall authority; The pre<g ref="char:EOLhyphen"/>vention of all which mischiefs is not to be expected without an ho<g ref="char:EOLhyphen"/>norable and free Treaty with his Majesty, which is the intent and scope of this pious Letter.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
